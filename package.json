@@ -1,0 +1,20 @@
+{
+  "name": "stack-and-queue",
+  "version": "1.0.0",
+  "description": "Stack and Queue",
+  "main": "Stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaima-Alkhateeb/Stack-and-Queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaima-Alkhateeb/Stack-and-Queue/issues"
+  },
+  "homepage": "https://github.com/Shaima-Alkhateeb/Stack-and-Queue#readme"
+}
