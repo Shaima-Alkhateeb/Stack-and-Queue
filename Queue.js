@@ -25,6 +25,7 @@ class Queue {
 
     // Check the first element in the queue
     peek() {
+        if (this.count == 0) return undefined;
         console.log(`First element is ${this.items[0]}`);
         return this.items[0];
     }
